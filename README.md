@@ -1,5 +1,8 @@
 # Uber-Request-Data-Analysis
 
+Jupyter Notebook Link:
+https://shorturl.at/VCKkx
+
 Project Summary
 
 This project focuses on analyzing Uber ride request data to identify and address key operational challenges related to driver availability, trip cancellations, and unfulfilled ride requests. The dataset includes crucial variables such as request timestamps, pickup points (city or airport), driver IDs, trip status, and drop timestamps. The findings will serve as a foundation for data-driven recommendations to improve service efficiency, balance supply with demand, reduce cancellations, and enhance the overall customer experience. The project ultimately supports Uber’s goal of optimizing its operations through actionable insights derived from its own ride data.
